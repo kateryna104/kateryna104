@@ -55,4 +55,3 @@ Actively participates in code reviews, performance analysis, and setting up test
 <a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="25" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
 </div>  
-![image](https://github.com/user-attachments/assets/04c03900-7555-4e69-8294-26eb7cdfe076)
