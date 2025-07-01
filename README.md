@@ -40,12 +40,12 @@ Actively participates in code reviews, performance analysis, and setting up test
 •	Workflow Automation / Integration Tools: n8n
 •	Others: GitHub, GitLab, Jira, Figma, Gherkin syntax, SDLC, STLC
 
-### What I do:
+### My Technical Skills:
 
 - Frameworks/Libraries: Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium 
 - APIs/Services: Postman, Axios, GraphQL, Salesforce 
-- Monitor performance and debug test environments using cloud-based tools  
-- Contribute to team collaboration and Agile delivery practices  
+- Testing Tools: NewRelic, Docker, Sentry, VsCode, IntelliJ idea, WebStorm
+- Databases: MySQL, MongoDB 
 ![](https://rishavanand.github.io/static/images/greetings.gif)
 
 
