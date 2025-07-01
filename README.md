@@ -66,7 +66,6 @@ Actively participates in code reviews, performance analysis, and setting up test
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)
 
 ### 🧪 Test Automation  
@@ -91,7 +90,6 @@ Actively participates in code reviews, performance analysis, and setting up test
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab)
 
 ### 🧠 Monitoring & IDE  
-![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm)
