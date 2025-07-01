@@ -26,8 +26,22 @@ Actively participates in code reviews, performance analysis, and setting up test
 - Integrate test automation into CI/CD workflows  
 - Monitor performance and debug test environments using cloud-based tools  
 - Contribute to team collaboration and Agile delivery practices  
-![](https://rishavanand.github.io/static/images/greetings.gif)  
+![](https://rishavanand.github.io/static/images/greetings.gif)
 
+
+### My Technical Skills:
+
+
+•	Languages/Tools: JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON
+•	Frameworks/Libraries: Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium 
+•	APIs/Services: Postman, Axios, GraphQL, SalesForce
+•	Testing Tools: NewRelic, Docker, Sentry, VsCode, IntelliJ idea, WebStorm
+•	Databases: MySQL, MongoDB
+•	Platforms: AWS, Azure DevOps 
+•	Workflow Automation / Integration Tools: n8n
+•	Others: GitHub, GitLab, Jira, Figma, Gherkin syntax, SDLC, STLC
+
+ 
 
 </td></tr></table>  
 
