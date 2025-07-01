@@ -82,12 +82,11 @@ Actively participates in code reviews, performance analysis, and setting up test
 
 
 
- Reach me at: [katerynachubeiko@gmail.com](mailto:katerynachubeiko@gmail.com)
  ## 📫 Let's Connect
 
-- 📧 [Email](mailto:your.email@example.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 📧 [Email](mailto:katerynachubeiko@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kateryna-chubeiko/)  
+- 📄 [Resume (PDF)](./resume.pdf)
 
 
 
