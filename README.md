@@ -1,5 +1,5 @@
 
-## Hello and glad to see you here👋 
+## Hello and glad to see you here 👋 
 ## I'm Kateryna Chubeiko, a team player who can take on new tasks, prioritize, and perform effectively in a fast-paced environment.
   
 
