@@ -25,20 +25,12 @@ Actively participates in code reviews, performance analysis, and setting up test
 - Design and implement end-to-end automated tests for web apps and APIs  
 - Integrate test automation into CI/CD workflows  
 - Monitor performance and debug test environments using cloud-based tools  
-- Contribute to team collaboration and Agile delivery practices  
+- Contribute to team collaboration and Agile delivery practices
+- Implement Cypress and Playwright frameworks in TypeScript 
+
 ![](https://rishavanand.github.io/static/images/greetings.gif)
 
 
-### My Technical Skills:
-
-
-•	Frameworks/Libraries: Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium 
-•	APIs/Services: Postman, Axios, GraphQL, Salesforce
-•	Testing Tools: NewRelic, Docker, Sentry, VsCode, IntelliJ idea, WebStorm
-•	Databases: MySQL, MongoDB
-•	Platforms: AWS, Azure DevOps 
-•	Workflow Automation / Integration Tools: n8n
-•	Others: GitHub, GitLab, Jira, Figma, Gherkin syntax, SDLC, STLC
 
 ### My Technical Skills:
 
