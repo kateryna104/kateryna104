@@ -15,7 +15,7 @@
 
 
 
-### About me:  
+### About me: team player who can take on new tasks, prioritize and perform effectively in a fast-paced environment. 
 QA Automation Engineer with over 5 years of experience in automating UI and API tests.
 Worked with Cypress, Playwright, CI/CD integration (Jenkins, GitHub Actions), Docker.
 Actively participates in code reviews, performance analysis, and setting up test pipelines. Ensuring software quality in Agile teams.  
