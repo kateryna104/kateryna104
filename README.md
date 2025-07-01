@@ -80,5 +80,9 @@ Actively participates in code reviews, performance analysis, and setting up test
 </div>  
 
 
+📧 Reach me at: [katerynachubeiko@gmail.com](mailto:katerynachubeiko@gmail.com)
+
+
+
 
   
