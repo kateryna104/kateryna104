@@ -86,7 +86,7 @@ Actively participates in code reviews, performance analysis, and setting up test
 
 🔹 **Email:** [katerynachubeiko@gmail.com](mailto:katerynachubeiko@gmail.com)  
 🔹 **LinkedIn:** [linkedin.com/in/kateryna-chubeiko](https://www.linkedin.com/in/kateryna-chubeiko/)  
-🔹 **Resume:** [📄 Download Resume](./Kateryna_Chubeiko.docx)
+
 
 
 
