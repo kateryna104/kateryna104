@@ -34,11 +34,7 @@ Actively participates in code reviews, performance analysis, and setting up test
 - Performed smoke, build acceptance, regression, end-to-end, and bug verification testing for new builds
   
 
-
-
-
 ![](https://rishavanand.github.io/static/images/greetings.gif)
-
 
 
 ### My Technical Skills:
