@@ -26,7 +26,15 @@ Actively participates in code reviews, performance analysis, and setting up test
 - Integrate test automation into CI/CD workflows  
 - Monitor performance and debug test environments using cloud-based tools  
 - Contribute to team collaboration and Agile delivery practices
-- Implement Cypress and Playwright frameworks in TypeScript 
+- Implement Cypress and Playwright frameworks in TypeScript
+- Perform REST API  and API GraphQL automation testing
+- Develop SQL queries
+- Write and execute test cases for assigned modules of the application under test, update existing test cases to reflect new changes, and identify potential gaps in test coverage
+- Performed smoke, build acceptance, regression, end-to-end, and bug verification testing for new builds
+- 
+
+
+
 
 ![](https://rishavanand.github.io/static/images/greetings.gif)
 
