@@ -1,50 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78D28&center=true&vCenter=true&width=435&lines=Kateryna+Chubeiko;QA+Engineer;Automation+Engineer;Cypress+%7C+Playwright+%7C+Selenium" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78D28&center=true&vCenter=true&width=1000&lines=Kateryna+Chubeiko;QA+Automation+Engineer;A+team+player+who+can+take+on+new+tasks,+prioritize,+and+perform+effectively+in+a+fast-paced+environment."/>
 </p>
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-  <meta charset="UTF-8">
-  <title>Катерина Чубейко | QA Automation</title>
-  <style>
-    body {
-      background-color: #0d1117;
-      color: #c9d1d9;
-      font-family: 'Courier New', Courier, monospace;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
-
-    .typing {
-      font-size: 2em;
-      white-space: nowrap;
-      overflow: hidden;
-      border-right: 0.15em solid #c9d1d9;
-      animation: typing 3s steps(30, end), blink 0.75s step-end infinite;
-      width: 0;
-    }
-
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 28ch; } /* 28 символов */
-    }
-
-    @keyframes blink {
-      from, to { border-color: transparent; }
-      50% { border-color: #c9d1d9; }
-    }
-  </style>
-</head>
-<body>
-
-  <div class="typing">Катерина Чубейко QA Automation</div>
-
-</body>
-</html>
 
 
 ## Hello and glad to see you here 👋 
