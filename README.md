@@ -31,7 +31,7 @@ Actively participates in code reviews, performance analysis, and setting up test
 - Develop SQL queries
 - Write and execute test cases for assigned modules of the application under test, update existing test cases to reflect new changes, and identify potential gaps in test coverage
 - Performed smoke, build acceptance, regression, end-to-end, and bug verification testing for new builds
-- 
+  
 
 
 
