@@ -45,7 +45,10 @@ Actively participates in code reviews, performance analysis, and setting up test
 - Frameworks/Libraries: Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium 
 - APIs/Services: Postman, Axios, GraphQL, Salesforce 
 - Testing Tools: NewRelic, Docker, Sentry, VsCode, IntelliJ idea, WebStorm
-- Databases: MySQL, MongoDB 
+- Databases: MySQL, MongoDB
+- Platforms: AWS, Azure DevOps
+- Workflow Automation / Integration Tools: n8n
+- Others: GitHub, GitLab, Jira, Figma, Gherkin syntax, SDLC, STLC
 ![](https://rishavanand.github.io/static/images/greetings.gif)
 
 
