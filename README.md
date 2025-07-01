@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78D28&center=true&vCenter=true&width=435&lines=Kateryna+Chubeiko;QA+Engineer;Automation+Engineer;Cypress+%7C+Playwright+%7C+Selenium" alt="Typing SVG" />
+</p>
 
 ## Hello and glad to see you here 👋 
 ## I'm Kateryna Chubeiko, a team player who can take on new tasks, prioritize, and perform effectively in a fast-paced environment.
