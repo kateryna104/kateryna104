@@ -12,7 +12,7 @@
 
 <h3 align="center">
   <span style="color:#F78D28; font-family:Fira Code; font-size:26px;">
-    ***Hello, and glad to see you here!***
+    Hello, and glad to see you here!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </span>
 </h3>
