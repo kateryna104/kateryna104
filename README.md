@@ -41,6 +41,8 @@ Actively participates in code reviews, performance analysis, and setting up test
 ### Technical skills:
 
 - Languages/Tools: JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON
+- *Languages/Tools:*  
+JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON
 
 - Frameworks/Libraries: Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium 
 
