@@ -58,8 +58,8 @@ Actively participates in code reviews, performance analysis, and setting up test
 ### My Technical Skills:
 
 - Frameworks/Libraries: Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium 
-- APIs/Services: Postman, Axios, GraphQL, Salesforce 
-- Testing Tools: NewRelic, Docker, Sentry, VsCode, IntelliJ idea, WebStorm
+- APIs/Services: Postman, GraphQL, Salesforce 
+- Testing Tools: NewRelic, Docker, VsCode, IntelliJ idea, WebStorm
 - Databases: MySQL, MongoDB
 - Platforms: AWS, Azure DevOps
 - Workflow Automation / Integration Tools: n8n
