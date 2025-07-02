@@ -40,19 +40,29 @@ Actively participates in code reviews, performance analysis, and setting up test
 
 ### Technical skills:
 
-- Languages/Tools: JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON
+<h3 style="color:#f78d28;">Languages/Tools:</h3>
+- JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON
 
-- Frameworks/Libraries: Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium 
+<h3 style="color:#f78d28;">Frameworks/Libraries:</h3>
+- Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium 
 
-- APIs/Services: Postman, Axios, GraphQL, SalesForce
+<h3 style="color:#f78d28;">APIs/Services:</h3>
+- Postman, Axios, GraphQL, SalesForce
 
-- Testing Tools: Docker, Sentry, VsCode, IntelliJ idea, WebStorm
+<h3 style="color:#f78d28;">Testing Tools:</h3>
+- Docker, Sentry, VsCode, IntelliJ IDEA, WebStorm
 
-- Databases: MySQL, MongoDB
- 
-- Platforms: AWS, Azure DevOps, DigitalOcean 
-- Workflow Automation / Integration Tools: n8n
-- Others: GitHub, GitLab, Jira, Figma, Gherkin syntax, SDLC, STLC
+<h3 style="color:#f78d28;">Databases:</h3>
+- MySQL, MongoDB
+
+<h3 style="color:#f78d28;">Platforms:</h3>
+- AWS, Azure DevOps, DigitalOcean 
+
+<h3 style="color:#f78d28;">Workflow Automation / Integration Tools:</h3>
+- n8n
+
+<h3 style="color:#f78d28;">Others:</h3>
+- GitHub, GitLab, Jira, Figma, Gherkin syntax, SDLC, STLC
 
 
 ### What I do:
