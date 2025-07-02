@@ -39,6 +39,15 @@ Actively participates in code reviews, performance analysis, and setting up test
 
 
 ### Technical skills:
+***Languages/Tools:*** JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON  
+***Frameworks/Libraries:*** Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium  
+***APIs/Services:*** Postman, Axios, GraphQL, SalesForce  
+***Testing Tools:*** Docker, Sentry, VS Code, IntelliJ IDEA, WebStorm  
+***Databases:*** MySQL, MongoDB  
+***Platforms:*** AWS, Azure DevOps, DigitalOcean  
+***Workflow Automation / Integration Tools:*** n8n  
+***Others:*** GitHub, GitLab, Jira, Figma, Gherkin syntax, SDLC, STLC
+
 
 - Languages/Tools: JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON
 - *Languages/Tools:*  
