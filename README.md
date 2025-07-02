@@ -43,6 +43,7 @@ Actively participates in code reviews, performance analysis, and setting up test
 - Languages/Tools: JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON
 - *Languages/Tools:*  
 JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON
+***Languages/Tools:***  
 
 - Frameworks/Libraries: Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium 
 
