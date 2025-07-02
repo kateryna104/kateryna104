@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78D28&center=true&vCenter=true&width=1000&lines=Kateryna+Chubeiko;QA+Automation+Engineer;A+team+player+who+can+take+on+new+tasks;prioritize+and+perform+effectively;in+a+fast-paced+environment.&repeat=false"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=F78D28&center=true&vCenter=true&width=1000&lines=Kateryna+Chubeiko&repeat=false"/><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=F78D28&center=true&vCenter=true&width=1000&lines=QA+Automation+Engineer&repeat=false"/><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=F78D28&center=true&vCenter=true&width=1000&lines=A+team+player+who+can+take+on+new+tasks&repeat=false"/><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=F78D28&center=true&vCenter=true&width=1000&lines=prioritize+and+perform+effectively&repeat=false"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=F78D28&center=true&vCenter=true&width=1000&lines=in+a+fast-paced+environment.&repeat=false"/>
 </p>
+
 
 
 
