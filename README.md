@@ -90,7 +90,8 @@ Actively participates in code reviews, performance analysis, and setting up test
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
+
 
 
 ### 🧠 Monitoring & IDE  
