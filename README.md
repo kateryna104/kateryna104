@@ -19,8 +19,7 @@
 
 
 
-
-**QA Automation Engineer***
+### ***QA Automation Engineer***
 
 
 <a href="https://linkedin.com/in/kateryna-chubeiko" target="_blank">
