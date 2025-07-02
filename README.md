@@ -50,26 +50,12 @@ Actively participates in code reviews, performance analysis, and setting up test
 - Perform REST API  and API GraphQL automation testing
 - Develop SQL queries
 - Write and execute test cases for assigned modules of the application under test, update existing test cases to reflect new changes, and identify potential gaps in test coverage
-- Performed smoke, build acceptance, regression, end-to-end, and bug verification testing for new builds
+- Perform smoke, build acceptance, regression, end-to-end, and bug verification testing for new builds
+- Work with both SDLC and STLC, understand each phase from planning to delivery, and ensure quality at every step.
   
 
 ![](https://rishavanand.github.io/static/images/greetings.gif)
 
-
-### My Technical Skills:
-
-- Frameworks/Libraries: Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium 
-- APIs/Services: Postman, GraphQL, Salesforce 
-- Testing Tools: NewRelic, Docker, VsCode, IntelliJ idea, WebStorm
-- Databases: MySQL, MongoDB
-- Platforms: AWS, Azure DevOps
-- Workflow Automation / Integration Tools: n8n
-- Others: GitHub, GitLab, Jira, Figma, Gherkin syntax, SDLC, STLC
-![](https://rishavanand.github.io/static/images/greetings.gif)
-
-
-
- 
 
 </td></tr></table>  
 
