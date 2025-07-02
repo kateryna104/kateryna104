@@ -19,7 +19,7 @@
 
 
 
-### ***QA Automation Engineer***
+# ***QA Automation Engineer***
 
 
 <a href="https://linkedin.com/in/kateryna-chubeiko" target="_blank">
@@ -27,7 +27,7 @@
 </a>  
 
   
-### ***About me:***
+## ***About me:***
 
 
 QA Automation Engineer with over 5 years of experience in automating UI and API tests.
@@ -77,7 +77,7 @@ Actively participates in code reviews, performance analysis, and setting up test
 <br/>  
 
 
-## *🛠 My Tech Stack*
+### *🛠 My Tech Stack*
 
 
 ### 🧩 Languages & Tools  
