@@ -30,7 +30,6 @@
   
 
 
-
 ### About me:
 
 QA Automation Engineer with over 5 years of experience in automating UI and API tests.
@@ -39,32 +38,22 @@ Actively participates in code reviews, performance analysis, and setting up test
 
 
 ### Technical skills:
+
 ***Languages/Tools:*** JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON  
-***Frameworks/Libraries:*** Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium  
+
+***Frameworks/Libraries:*** Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium 
+
 ***APIs/Services:*** Postman, Axios, GraphQL, SalesForce  
-***Testing Tools:*** Docker, Sentry, VS Code, IntelliJ IDEA, WebStorm  
+
+***Testing Tools:*** Docker, Sentry, VS Code, IntelliJ IDEA, WebStorm 
+
 ***Databases:*** MySQL, MongoDB  
+
 ***Platforms:*** AWS, Azure DevOps, DigitalOcean  
+
 ***Workflow Automation / Integration Tools:*** n8n  
+
 ***Others:*** GitHub, GitLab, Jira, Figma, Gherkin syntax, SDLC, STLC
-
-
-- Languages/Tools: JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON
-- *Languages/Tools:*  
-JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON
-***Languages/Tools:***  
-
-- Frameworks/Libraries: Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium 
-
-- APIs/Services: Postman, Axios, GraphQL, SalesForce
-
-- Testing Tools: Docker, Sentry, VsCode, IntelliJ idea, WebStorm
-
-- Databases: MySQL, MongoDB
- 
-- Platforms: AWS, Azure DevOps, DigitalOcean 
-- Workflow Automation / Integration Tools: n8n
-- Others: GitHub, GitLab, Jira, Figma, Gherkin syntax, SDLC, STLC
 
 
 ### What I do:
@@ -141,6 +130,7 @@ JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON
 
 
 ## 📫 Let's Connect
+
 
 🔹 **Email:** [katerynachubeiko@gmail.com](mailto:katerynachubeiko@gmail.com)  
 🔹 **LinkedIn:** [linkedin.com/in/kateryna-chubeiko](https://www.linkedin.com/in/kateryna-chubeiko/)  
