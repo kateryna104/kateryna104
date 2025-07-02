@@ -36,6 +36,21 @@
 QA Automation Engineer with over 5 years of experience in automating UI and API tests.
 Worked with Cypress, Playwright, CI/CD integration (Jenkins, GitHub Actions), Docker.
 Actively participates in code reviews, performance analysis, and setting up test pipelines. Ensuring software quality in Agile teams.  
+
+
+### Technical skills:
+
+- Languages/Tools: JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON
+ 
+- Integrate test automation into CI/CD workflows  
+- Monitor performance and debug test environments using cloud-based tools  
+- Contribute to team collaboration and Agile delivery practices
+- Implement Cypress and Playwright frameworks in TypeScript
+- Perform REST API  and API GraphQL automation testing
+- Develop SQL queries
+- Write and execute test cases for assigned modules of the application under test, update existing test cases to reflect new changes, and identify potential gaps in test coverage
+- Perform smoke, build acceptance, regression, end-to-end, and bug verification testing for new builds
+- Work with both SDLC and STLC, understand each phase from planning to delivery, and ensure quality at every step.
   
 
 ### What I do:
