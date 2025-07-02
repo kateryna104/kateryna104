@@ -28,7 +28,7 @@
   
 
 
-### ***About me:*
+### **About me:**
 
 QA Automation Engineer with over 5 years of experience in automating UI and API tests.
 Worked with Cypress, Playwright, CI/CD integration (Jenkins, GitHub Actions), Docker.
