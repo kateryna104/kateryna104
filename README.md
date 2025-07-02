@@ -40,9 +40,9 @@ Actively participates in code reviews, performance analysis, and setting up test
 
 ### Technical skills:
 
-- Languages/Tools: JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON
- 
-- Integrate test automation into CI/CD workflows  
+Languages/Tools: JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON
+Frameworks/Libraries: Cypress, Playwright, Mocha, Chai, Supertest, Cucumber, Selenium 
+
 - Monitor performance and debug test environments using cloud-based tools  
 - Contribute to team collaboration and Agile delivery practices
 - Implement Cypress and Playwright frameworks in TypeScript
