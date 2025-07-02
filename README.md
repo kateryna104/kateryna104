@@ -25,10 +25,10 @@
 <a href="https://linkedin.com/in/kateryna-chubeiko" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+
   
+### ***About me:***
 
-
-### **About me:**
 
 QA Automation Engineer with over 5 years of experience in automating UI and API tests.
 Worked with Cypress, Playwright, CI/CD integration (Jenkins, GitHub Actions), Docker.
@@ -55,6 +55,7 @@ Actively participates in code reviews, performance analysis, and setting up test
 ***Others:*** GitHub, GitLab, Jira, Figma, Gherkin syntax, SDLC, STLC
 
 ### *What I do:*
+
 
 - Design and implement end-to-end automated tests for web apps and APIs  
 - Integrate test automation into CI/CD workflows  
