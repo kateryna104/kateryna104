@@ -69,15 +69,8 @@ Actively participates in code reviews, performance analysis, and setting up test
 - Work with both SDLC and STLC, understand each phase from planning to delivery, and ensure quality at every step.
   
 
-![](https://rishavanand.github.io/static/images/greetings.gif)
 
-
-</td></tr></table>  
-
-<br/>  
-
-
-### *🛠 My Tech Stack*
+## *🛠 My Tech Stack*
 
 
 ### 🧩 Languages & Tools  
