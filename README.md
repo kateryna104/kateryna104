@@ -20,8 +20,7 @@
 
 
 
-
-### QA Automation Engineer  
+**QA Automation Engineer***
 
 
 <a href="https://linkedin.com/in/kateryna-chubeiko" target="_blank">
@@ -30,14 +29,15 @@
   
 
 
-### About me:
+### ***About me:*
 
 QA Automation Engineer with over 5 years of experience in automating UI and API tests.
 Worked with Cypress, Playwright, CI/CD integration (Jenkins, GitHub Actions), Docker.
 Actively participates in code reviews, performance analysis, and setting up test pipelines. Ensuring software quality in Agile teams.  
 
 
-### Technical skills:
+### *Technical skills:*
+
 
 ***Languages/Tools:*** JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON  
 
@@ -55,8 +55,7 @@ Actively participates in code reviews, performance analysis, and setting up test
 
 ***Others:*** GitHub, GitLab, Jira, Figma, Gherkin syntax, SDLC, STLC
 
-
-### What I do:
+### *What I do:*
 
 - Design and implement end-to-end automated tests for web apps and APIs  
 - Integrate test automation into CI/CD workflows  
@@ -78,7 +77,7 @@ Actively participates in code reviews, performance analysis, and setting up test
 <br/>  
 
 
-## 🛠 My Tech Stack
+## *🛠 My Tech Stack*
 
 
 ### 🧩 Languages & Tools  
@@ -128,8 +127,7 @@ Actively participates in code reviews, performance analysis, and setting up test
 
 
 
-
-## 📫 Let's Connect
+## *📫 Let's Connect*
 
 
 🔹 **Email:** [katerynachubeiko@gmail.com](mailto:katerynachubeiko@gmail.com)  
