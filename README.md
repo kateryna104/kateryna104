@@ -35,7 +35,7 @@ Worked with Cypress, Playwright, CI/CD integration (Jenkins, GitHub Actions), Do
 Actively participates in code reviews, performance analysis, and setting up test pipelines. Ensuring software quality in Agile teams.  
 
 
-### *Technical skills:*
+### **Technical skills:**
 
 
 ***Languages/Tools:*** JavaScript, TypeScript, SQL, CSS, Java, Xpath, JSON  
