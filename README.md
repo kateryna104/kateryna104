@@ -48,7 +48,7 @@ Actively participates in code reviews, performance analysis, and setting up test
 
 ***Databases:*** MySQL, MongoDB  
 
-***Platforms:*** AWS, Azure DevOps, DigitalOcean  
+***Platforms:*** AWS, Azure DevOps, DigitalOcean, Railway 
 
 ***Workflow Automation / Integration Tools:*** n8n  
 
