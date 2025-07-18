@@ -101,6 +101,7 @@ Actively participates in code reviews, performance analysis, and setting up test
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-000000?logo=railway&logoColor=white)
 
 
 
